@@ -1,0 +1,35 @@
+#encabezadovalores{
+    background-color: #3ADF00;
+    color: white;
+    width: 100%;
+    height:70px;
+    font-size: 50px;
+    font-style: italic;
+}
+#valoreshistoricos{
+    font-size: 15px;
+    font-style: italic;
+    width: 95%;  
+    border: white;
+}
+#valor{
+    width:30px;
+}
+
+#cambios{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+    
+}
+#restablecer{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}

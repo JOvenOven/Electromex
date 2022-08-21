@@ -1,0 +1,44 @@
+#encabezadogestion{
+    background-color: #3ADF00;
+    color: white;
+    width: 100%;
+    height:70px;
+    font-size: 50px;
+    font-style: italic;
+}
+#busqueda{
+    font-size: 20px;
+    font-style: italic;
+    width: 40%;  
+}
+#usuarios{
+    font-size: 20px;
+    font-style: italic;
+    width: 80%;  
+}
+
+#aplicar{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+    
+}
+#deleteuser{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}
+#restablecer{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}

@@ -1,0 +1,45 @@
+#encabezadoproyeccion{
+    background-color: #3ADF00;
+    color: white;
+    width: 100%;
+    height:70px;
+    font-size: 50px;
+    font-style: italic;
+}
+#datosproyeccion{
+    font-size: 20px;
+    font-style: italic;
+    width: 80%;  
+}
+#proyectar{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}
+#doproyection{
+    font-size: 20px;
+    font-style: italic;
+    width: 80%;  
+}
+#quefue{
+    font-size: 20px;
+    font-style: italic;
+    width: 80%;  
+}
+#foot{
+    font-size: 20px;
+    font-style: italic;
+    width: 60%;  
+    color: #3ADF00;
+}
+#verrec{
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}

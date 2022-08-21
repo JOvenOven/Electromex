@@ -1,0 +1,35 @@
+#encabezadoregistro{
+    background-color: #3ADF00;
+    color: white;
+    width: 100%;
+    height:70px;
+    font-size: 50px;
+    font-style: italic;
+}
+#registrodeequipos{
+    font-size: 20px;
+    font-style: italic;
+    width: 80%;  
+}
+#noloencuentro{
+    font-size: 20px;
+    font-style: italic;
+    width: 80%;  
+}
+#guardarcambios{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+    
+}
+#agregar{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}

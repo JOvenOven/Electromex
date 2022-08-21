@@ -1,0 +1,47 @@
+#encabezadomicuenta{
+    background-color: #3ADF00;
+    color: white;
+    width: 100%;
+    height:70px;
+    font-size: 50px;
+    font-style: italic;
+}
+#tabladatosuser{
+    font-size: 20px;
+    font-style: italic;
+    width: 500px;
+}
+#nombreusuario{
+    width: 270px;
+}
+#contraseña{
+    width: 270px;
+}
+#confirmarcontraseña{
+    width: 270px;
+}
+#botonguardar{
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}
+#botoncancelar{
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}
+#selecttarifa{
+    width:270px;
+}
+#selectdel{
+    width:270px;
+}
+#datenac{
+    width:270px;
+}

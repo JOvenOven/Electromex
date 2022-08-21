@@ -1,0 +1,36 @@
+#cinta{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#cuerpo{
+    background-color: #BEF781;
+}
+#encabezadologin{
+    color: white;
+    width: 100%;
+    height:70px;
+    font-size: 110px;
+    font-style: italic;
+}
+#tablalogin{
+    font-size: 20px;
+    font-style: italic;
+    width: 500px;
+}
+#nombreusuario{
+    width: 270px;
+}
+#contraseña{
+    width: 270px;
+}
+#botonentrar{
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+}
+#infofinal{
+    font-size: 20px;
+    font-style: italic;
+    width: 400px;
+}

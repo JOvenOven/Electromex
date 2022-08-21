@@ -1,0 +1,49 @@
+#encabezadoequiposadmin{
+    background-color: #3ADF00;
+    color: white;
+    width: 100%;
+    height:70px;
+    font-size: 50px;
+    font-style: italic;
+}
+#adicion{
+    font-size: 20px;
+    font-style: italic;
+    width: 40%;  
+}
+#nombreequipo{
+    height: 40px;
+    width: 300px;
+}
+#agregar{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}
+
+#Equipos{
+    font-size: 20px;
+    font-style: italic;
+    width: 80%;  
+}
+#guardarcambios{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+    
+}
+#eliminarequipo{
+    font-size: 20px;
+    font-style: italic;
+    height: 40px;
+    color: white;
+    background-color: #3ADF00;
+    border: 0ch;
+}
+
